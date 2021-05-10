@@ -40,7 +40,6 @@ class AddMod {
   }
 
   async addEmployee() {
-    //parse role data into arrays
     this.roles.then((rolesData) => {
       for (var i = 0; i < rolesData[0].length; i++) {
         rolesTitles.push(rolesData[0][i].title);
@@ -48,7 +47,6 @@ class AddMod {
       }
     });
 
-    //parse managers into arrays
     this.managers.then((managersData) => {
       for (var i = 0; i < managersData[0].length; i++) {
         var fullName =
@@ -188,7 +186,6 @@ class AddMod {
         rolesIds.push(rolesData[0][i].id);
       }
     });
-    //parse depts
     this.departments.then((departmentsData) => {
       for (var i = 0; i < departmentsData[0].length; i++) {
         deptNames.push(departmentsData[0][i].name);
