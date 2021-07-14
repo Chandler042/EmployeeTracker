@@ -6,7 +6,8 @@ This is a Content Management System written with JavaScript, Inquirer, and other
 ***
 
 Youtube Link: https://www.youtube.com/watch?v=8rLI9OC0UEc
-Github: 
+
+Github: https://github.com/Chandler042/EmployeeTracker.git
 
 ## Table of Contents
 * [Installation](#installation)
