@@ -5,6 +5,9 @@
 This is a Content Management System written with JavaScript, Inquirer, and other packages. It uses a MySQL server as its database.
 ***
 
+Youtube Link: https://www.youtube.com/watch?v=8rLI9OC0UEc
+Github: 
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
